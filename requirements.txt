@@ -1,7 +1,4 @@
 gradio==6.12.0
-fastapi
-uvicorn
-websockets
 spaces
 
 numpy==1.26.4
